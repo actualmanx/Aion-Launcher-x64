@@ -16,4 +16,4 @@ The first download
 Will launch the 64 bit game and have the aion shop open in a browser (webshop).
 
 The Second download 
-Will launch the 64 bit game and have the aion shop ingame game same as launching from the gameforge launcher.
+Will launch the 64 bit game and have the aion shop ingame same as launching from the gameforge launcher.
