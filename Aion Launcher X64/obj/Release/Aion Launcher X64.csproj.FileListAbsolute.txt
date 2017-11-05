@@ -1,9 +1,0 @@
-C:\Users\Kieran\Documents\Visual Studio 2013\Projects\Aion Launcher X64\Aion Launcher X64\bin\Release\Aion Launcher X64.exe.config
-C:\Users\Kieran\Documents\Visual Studio 2013\Projects\Aion Launcher X64\Aion Launcher X64\bin\Release\Aion Launcher X64.exe
-C:\Users\Kieran\Documents\Visual Studio 2013\Projects\Aion Launcher X64\Aion Launcher X64\bin\Release\Aion Launcher X64.pdb
-C:\Users\Kieran\Documents\Visual Studio 2013\Projects\Aion Launcher X64\Aion Launcher X64\obj\Release\Aion Launcher X64.csprojResolveAssemblyReference.cache
-C:\Users\Kieran\Documents\Visual Studio 2013\Projects\Aion Launcher X64\Aion Launcher X64\obj\Release\Aion_Launcher_X64.Form1.resources
-C:\Users\Kieran\Documents\Visual Studio 2013\Projects\Aion Launcher X64\Aion Launcher X64\obj\Release\Aion_Launcher_X64.Properties.Resources.resources
-C:\Users\Kieran\Documents\Visual Studio 2013\Projects\Aion Launcher X64\Aion Launcher X64\obj\Release\Aion Launcher X64.csproj.GenerateResource.Cache
-C:\Users\Kieran\Documents\Visual Studio 2013\Projects\Aion Launcher X64\Aion Launcher X64\obj\Release\Aion Launcher X64.exe
-C:\Users\Kieran\Documents\Visual Studio 2013\Projects\Aion Launcher X64\Aion Launcher X64\obj\Release\Aion Launcher X64.pdb
