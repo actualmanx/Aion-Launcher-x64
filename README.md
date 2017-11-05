@@ -18,5 +18,7 @@ Will launch the 64 bit game and have the aion shop open in a browser (webshop).
 The Second download 
 Will launch the 64 bit game and have the aion shop ingame same as launching from the gameforge launcher.
 
+Or right from Github https://github.com/actualmanx/Aion-Launcher-x64/releases
+
 TODO...
 chosose folder where Aion is installed as steam got popular
